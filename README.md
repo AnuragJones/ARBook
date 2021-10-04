@@ -1,2 +1,3 @@
 # ARBook
-Ar Unity Project
+AR Unity Project
+This project is an augumented reality project that shows a 3d model in the real world through the help of an apk on the phone. The project was made by adding an a4 image of a character,tracking it, adding a model from the asset store to appear when the a4 sheet(in real life is shown in-front of the camera. The project(ArBook) has multiple images of basic drawings from which 3d models that represent the drawing would appear. Link to google drive that contains all project folders of project - https://drive.google.com/file/d/1oefUv_ewYIvsRQymSn1W4VKt8U7IV5WJ/view?usp=sharing
